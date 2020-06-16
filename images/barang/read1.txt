@@ -1,0 +1,1 @@
+folder images/barang berguna sbg tempat tersimpannya file barang yang akan kita upload
